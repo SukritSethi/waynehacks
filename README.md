@@ -5,3 +5,5 @@
  
  ## Contributors List
  
+ Sukrit Sethi (https://github.com/SukritSethi)
+ Blaire Xinyu Pang (https://github.com/xinyup)
