@@ -107,3 +107,7 @@ canvas {
 ::-webkit-scrollbar-thumb:hover {
   background: #ebebeb; 
 }
+
+.invisible{
+  display: none;
+}
